@@ -1,1 +1,4 @@
 venv
+.env
+loggingMiddleware\__pycache__
+urlShortner\__pycache__
