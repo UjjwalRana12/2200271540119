@@ -3,7 +3,7 @@ import os
 
 
 class FileLogger:
-    def __init__(self, log_file="loggingMiddleware/logs/app.log"):  # Use forward slashes
+    def __init__(self, log_file="loggingMiddleware/logs/app.log"): 
         os.makedirs(os.path.dirname(log_file), exist_ok=True)
         self.log_file = log_file
 

@@ -2,3 +2,4 @@ venv
 .env
 loggingMiddleware\__pycache__
 urlShortner\__pycache__
+image.png
